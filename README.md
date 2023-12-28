@@ -1,4 +1,4 @@
-Klipper-Config for my Genius Pro based on this video but for the Genius Pro
+Klipper-Config for my Genius Pro based on this video
 
 https://www.youtube.com/watch?v=7iQK6uSapJ0
 
